@@ -5,10 +5,15 @@ Class Slot: Friday — 6:00 PM to 9:00 PM
 Reflection Activity  
 My Thoughts on AI-Driven Development
 To my future self,
-Today, I wrote this reflection at a time when the world of software development has been forever reshaped by artificial intelligence.
+
+Today, I wrote this reflection at a time when the world of software development has been forever reshaped by
+artificial intelligence.
+
 What AI-Driven Development Means to Me:
 AI-Driven Development (AIDD) is more than just a new tool or technique … it’s the beginning of a new era where AI is not a helper behind the scenes, but a partner alongside developers. It’s a world where I no longer work alone. Where I think of an idea, and AI helps me expand it. Where I write a problem, and AI suggests a solution in seconds. Where coding isn’t just about syntax, but about creativity, logic, and human insight  while AI handles the mechanical parts.
 With AIDD, AI becomes a backbone in debugging, refactoring, testing, and even suggesting entire applications. It takes care of the grunt work, leaving me with what I love most: thinking, designing, and imagining.
+
+
 The Future of Human-AI Collaboration in Software Development :
 I see a future where human developers are like orchestra conductors  guiding intelligent agents who understand code, context, and systems. We’ll no longer be limited by typing speed or memory. We'll be idea generators, problem definers, and architects of solutions.
 AI won’t replace developers. It will elevate us. It will be like having a million smart assistants who never sleep, forget, or complain. We’ll think  and the system will build. We’ll sketch a vision AI will simulate it. Then we’ll correct, improve, personalize. It will be truly collaborative.
@@ -19,7 +24,9 @@ We’ll focus on why something is needed, instead of getting stuck in how to wri
 And the most exciting part?
 
 We are just getting started.
+
 “ A reflection designed to remind me of this moment of transformation.”
+
 🧠 Self-Test (MCQs) — Answer Key
 1️⃣ What is the main purpose of the AI-Native Era?
 ☐ a) Replace developers
